@@ -1,0 +1,14 @@
+{
+  "name": "04-otpverify",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ioredis": "^5.10.1"
+  }
+}

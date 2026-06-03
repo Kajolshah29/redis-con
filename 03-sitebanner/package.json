@@ -1,0 +1,15 @@
+{
+    "name": "03-sitebanner",
+    "version": "1.0.0",
+    "private": true,
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "dev" : "node --watch src/index.js"
+    },
+    "dependencies": {
+    "express": "^5.1.0",
+    "ioredis": "^5.10.1"
+    }
+}
